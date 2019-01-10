@@ -1,2 +1,2 @@
-# Inventory-Program-C-
+# Inventory-Program-C++
 Example C++ project
